@@ -7,4 +7,5 @@ public class Pacaking {
 	
 	public void print(){
 		
+	}
 }
