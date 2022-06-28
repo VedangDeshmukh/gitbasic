@@ -12,4 +12,8 @@ public class dashboardpage {
 	public void totalcountry() {
 		System.out.println("total country");
 	}
+	
+	public void totalemplayes() {
+		
+	}
 }
